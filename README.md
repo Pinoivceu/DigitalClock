@@ -1,3 +1,3 @@
 #DIGITAL CLOCK
 
-[text](https://candid-tulumba-673e59.netlify.app/)
+![alt text](https://github.com/Pinoivceu/DigitalClock/blob/main/image.png)
